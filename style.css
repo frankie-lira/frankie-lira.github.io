@@ -8,7 +8,7 @@
 	background: linear-gradient(rgba(20, 20, 20, 0.1), rgba(20, 20, 20, 0.1));
 }
 
-.logo img {max-width: 90px;}
+.logo img {max-width: 130px;}
 .primary-nav {padding-right: 50px;}
 .primary-nav li {
 	display: inline-block;
@@ -36,7 +36,7 @@
 
 /* Main banner */
 .main {
-	background: linear-gradient(rgba(20, 20, 20, 0.7), rgba(20, 20, 20, 0.7)), url(./images/apple-1838564_1920-main.jpg); /* Browser prefixes*/
+	background: linear-gradient(rgba(20, 20, 20, 0.7), rgba(20, 20, 20, 0.7)), url(images/IMG_0524.JPG); /* Browser prefixes*/
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
@@ -44,7 +44,8 @@
 	color: white;
 }
 
-.entry-banner h1 {font-family: "Source Sans Pro", Arial, sans-serif;}
+.entry-banner h1 {font-family: "Times New Roman", Times, serif;
+}
 #hello {font-size: 28pt;}
 #name {font-size: 100pt;}
 #person-description {font-size: 33pt;}
@@ -156,17 +157,17 @@
 .projects-header-quote {font-style: italic;}
 /*.luvtalk-project, .personal-website-project, .strike-zone-project, .resume {border: 3px solid white;}*/
 .luvtalk-project {
-	background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(./images/luvtalklogo.png);
-	background-position: center center;
+	background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(images/SwiftProject.png);
+	background-position: 50px 50px;;
 }
 
 .personal-website-project {
-	background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(./images/logo.svg);
+	background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(images/FrankieLogo1.png);
 	background-position: center center;
 }
 
 .strike-zone-project {
-	background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(./images/mlbproject.png);
+	background: linear-gradient(rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.85)), url(images/mlbproject.png);
 	background-position: center center;
 }
 
@@ -230,3 +231,40 @@
 .home-footer a, .portfolio-footer a, .resume-footer a, .contact-footer a {color: white;}
 .home-footer a:hover, .portfolio-footer a:hover, .resume-footer a:hover, .contact-footer a:hover {
 }
+/* Style all font awesome icons */
+
+.fa {
+	padding: 20px;
+	font-size: 30px;
+	width: 50px;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 50%;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+	opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+	background: #3B5998;
+	color: white;
+  }
+  
+  /* Twitter */
+  .fa-linkedin {
+	background: #55ACEE;
+	color: white;
+  }
+  .fa-instagram {
+	background: brown;
+	color: white;
+  }
+  .fa-google {
+	background: #ee5555d2;
+	color: white;
+  }
