@@ -62,6 +62,7 @@ $(function() {
          $('#Container--5').addClass('animated fadeIn');
          $('#dan').addClass('animated fadeIn');
          $('#babylon').addClass('animated fadeIn');
+         $('#bakersbeach').addClass('animated fadeIn');
          $('#radical').addClass('animated fadeIn');
          $('#cullop').addClass('animated fadeIn');
          $('#recharge').addClass('animated fadeIn');

@@ -306,7 +306,7 @@
     ----- CONTAINERS -----
     **/
   
-  #radical, #recharge, #cullop, #hc, #babylon, #fei, #storyware, .Container--main, #Container--1, #Container--2, #Container--3, #Container--4, #Container--5, #Container--6, #Container--7, #Container--8 {
+  #radical, #recharge, #cullop, #hc, #babylon, #bakersbeach, #fei, #storyware, .Container--main, #Container--1, #Container--2, #Container--3, #Container--4, #Container--5, #Container--6, #Container--7, #Container--8 {
     opacity: 0;
     -webkit-transition: opacity .25s;
     -o-transition: opacity .25s;
@@ -468,6 +468,11 @@
     background: url("../images/home/babylon-1.jpg") no-repeat center center;
     background-size: cover;
     padding-bottom: 97.58%;
+  }
+  #bakersbeach, .bakersbeach {
+    background: url("../images/home/bakersbeach.png") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 100%;
   }
   
   #dan, .dan {
