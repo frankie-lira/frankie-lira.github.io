@@ -306,7 +306,7 @@ p {
   ----- CONTAINERS -----
   **/
 
-#radical, #recharge, #cullop, #hc, #babylon, #bakersbeach, #fei, #storyware, .Container--main, #Container--1, #Container--2, #Container--3, #Container--4, #Container--5, #Container--6, #Container--7, #Container--8 {
+#radical, #recharge, #cullop, #hc, #babylon, #bakersbeach, #flowerseller, #fei, #storyware, .Container--main, #Container--1, #Container--2, #Container--3, #Container--4, #Container--5, #Container--6, #Container--7, #Container--8 {
   opacity: 0;
   -webkit-transition: opacity .25s;
   -o-transition: opacity .25s;
@@ -475,6 +475,20 @@ p {
   background-size: cover;
   padding-bottom: 100%;
 }
+
+#yosemite, .yosemite {
+  background: url("../images/home/yosemite.png") no-repeat center center;
+  background-size: cover;
+  padding-bottom: 105.21%;
+}
+
+#flowerseller, .flowerseller {
+  background: url("../images/home/FlowerSeller.png") no-repeat center center;
+  background-size: cover;
+    /* height: 350px !important; */
+    padding-bottom: 71.01%;
+}
+
 
 #dan, .dan {
   background: url("../images/home/Mindfulness.gif") no-repeat center center;
