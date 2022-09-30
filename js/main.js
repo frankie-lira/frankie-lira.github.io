@@ -65,7 +65,8 @@ $(function() {
          $('#bakersbeach').addClass('animated fadeIn');
          $('#yosemite').addClass('animated fadeIn');
          $('#radical').addClass('animated fadeIn');
-         $('#flowerseller').addClass('animated fadeIn');
+         // $('#flowerseller').addClass('animated fadeIn');
+         $('#TwitterCloneApp').addClass('animated fadeIn');
          $('#cullop').addClass('animated fadeIn');
          $('#recharge').addClass('animated fadeIn');
 

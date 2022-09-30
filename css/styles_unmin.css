@@ -306,7 +306,7 @@
     ----- CONTAINERS -----
     **/
   
-  #radical, #flowerseller, #recharge, #cullop, #hc, #babylon, #bakersbeach, #fei, #storyware, .Container--main, #Container--1, #Container--2, #Container--3, #Container--4, #Container--5, #Container--6, #Container--7, #Container--8 {
+  #radical, #TwitterCloneApp, #recharge, #cullop, #hc, #babylon, #bakersbeach, #fei, #storyware, .Container--main, #Container--1, #Container--2, #Container--3, #Container--4, #Container--5, #Container--6, #Container--7, #Container--8 {
     opacity: 0;
     -webkit-transition: opacity .25s;
     -o-transition: opacity .25s;
@@ -464,13 +464,12 @@
       padding-bottom: 71.01%;
   }
 
-  #flowerseller, .flowerseller {
+  #TwitterCloneApp, .TwitterCloneApp {
     background: url("") no-repeat center center;
     background-size: cover;
       /* height: 350px !important; */
       padding-bottom: 100%;
   }
-  
   
   #babylon, .babylon {
     background: url("../images/home/babylon-1.jpg") no-repeat center center;
