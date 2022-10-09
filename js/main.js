@@ -68,6 +68,8 @@ $(function() {
          // $('#flowerseller').addClass('animated fadeIn');
          $('#TwitterCloneApp').addClass('animated fadeIn');
          $('#cullop').addClass('animated fadeIn');
+         $('#yelp').addClass('animated fadeIn');
+         $('#yelp2').addClass('animated fadeIn');
          $('#recharge').addClass('animated fadeIn');
 
       }

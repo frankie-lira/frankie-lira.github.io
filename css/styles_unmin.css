@@ -306,7 +306,7 @@
     ----- CONTAINERS -----
     **/
   
-  #radical, #TwitterCloneApp, #recharge, #cullop, #hc, #babylon, #bakersbeach, #fei, #storyware, .Container--main, #Container--1, #Container--2, #Container--3, #Container--4, #Container--5, #Container--6, #Container--7, #Container--8 {
+  #radical, #TwitterCloneApp, #recharge, #cullop,#yelp, #yelp2, #hc, #babylon, #bakersbeach, #fei, #storyware, .Container--main, #Container--1, #Container--2, #Container--3, #Container--4, #Container--5, #Container--6, #Container--7, #Container--8 {
     opacity: 0;
     -webkit-transition: opacity .25s;
     -o-transition: opacity .25s;
@@ -481,7 +481,12 @@
     background-size: cover;
     padding-bottom: 100%;
   }
-
+  
+  #yelp2, .yelp2 {
+    background: url("../images/yelp.png") no-repeat center center;
+    background-size: cover;
+    padding-bottom: 100%;
+  }
   #yosemite, .yosemite {
     background: url("../images/Flix.png") no-repeat center center;
     background-size: cover;
@@ -497,6 +502,11 @@
   
   #cullop, .cullop {
     background: url("../images/home/dailyui-5.png") no-repeat left center;
+    background-size: 750px;
+    padding-bottom: 70.7%;
+  }
+  #yelp, .yelp {
+    background: url("../images/yelp.png") no-repeat left center;
     background-size: 750px;
     padding-bottom: 70.7%;
   }
