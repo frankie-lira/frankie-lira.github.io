@@ -50,8 +50,16 @@ $(function() {
          $('#Container--2').addClass('animated fadeIn');
       }
 
+      if ($main > project2) { 
+         $('#Container--21').addClass('animated fadeIn');
+      }
+
       if ($main > project3) { 
          $('#Container--3').addClass('animated fadeIn');
+      }
+
+      if ($main > project3) { 
+         $('#Container--31').addClass('animated fadeIn');
       }
 
       if ($main > project4) { 
